@@ -3049,7 +3049,7 @@ MonoBehaviour:
   boldStyle: 0.75
   boldSpacing: 7
   italicStyle: 35
-  tabSize: 10
+  tabSize: 4
   m_fontInfo:
     Name: 
     PointSize: 0
